@@ -1,0 +1,1690 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Brazil,BRA,2006,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,788053
+Brazil,BRA,2005,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,789622
+Brazil,BRA,2004,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,791191
+Brazil,BRA,2003,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,792760
+Brazil,BRA,2002,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,794329
+Brazil,BRA,2001,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,795898
+Brazil,BRA,2000,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,797466
+Brazil,BRA,1999,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,799035
+Brazil,BRA,1998,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,800604
+Brazil,BRA,1997,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,802173
+Brazil,BRA,1996,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,803742
+Brazil,BRA,1995,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,791248
+Brazil,BRA,1994,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,778754
+Brazil,BRA,1993,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,766260
+Brazil,BRA,1992,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,753766
+Brazil,BRA,1991,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,741272
+Brazil,BRA,1990,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,728779
+Brazil,BRA,1989,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,716285
+Brazil,BRA,1988,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,703790
+Brazil,BRA,1987,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,691297
+Brazil,BRA,1986,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,678803
+Brazil,BRA,1985,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,666309
+Brazil,BRA,1984,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,641000
+Brazil,BRA,1983,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,617000
+Brazil,BRA,1982,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,593000
+Brazil,BRA,1981,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,569000
+Brazil,BRA,1980,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,545205
+Brazil,BRA,1979,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,485000
+Brazil,BRA,1978,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,428000
+Brazil,BRA,1977,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,370000
+Brazil,BRA,1976,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,350000
+Brazil,BRA,1975,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,323113
+Brazil,BRA,1974,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,236000
+Brazil,BRA,1973,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,218500
+Brazil,BRA,1972,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,201000
+Brazil,BRA,1971,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,183500
+Brazil,BRA,1970,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,165870
+Brazil,BRA,1969,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,155400
+Brazil,BRA,1968,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,145000
+Brazil,BRA,1967,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,134500
+Brazil,BRA,1966,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,124000
+Brazil,BRA,1965,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,114000
+Brazil,BRA,1964,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,103000
+Brazil,BRA,1963,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,93000
+Brazil,BRA,1962,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,82000
+Brazil,BRA,1961,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,72000
+Brazil,BRA,2016,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,534.957020788408
+Brazil,BRA,2015,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,449.600950179619
+Brazil,BRA,2014,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,484.618167961299
+Brazil,BRA,2013,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,434.529905350507
+Brazil,BRA,2012,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,365.295523320895
+Brazil,BRA,2011,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,386.814273991527
+Brazil,BRA,2010,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,324.868648278904
+Brazil,BRA,2009,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,269.266612576327
+Brazil,BRA,2008,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,309.008997833499
+Brazil,BRA,2007,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,326.585848270781
+Brazil,BRA,2006,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,261.737007494086
+Brazil,BRA,2005,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,269.937681288949
+Brazil,BRA,2004,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,322.15815720138
+Brazil,BRA,2003,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,315.684800619306
+Brazil,BRA,2002,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,264.490172269972
+Brazil,BRA,2016,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,186.096114898241
+Brazil,BRA,2015,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,160.66217658533
+Brazil,BRA,2014,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,173.054797733529
+Brazil,BRA,2013,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,173.934941768062
+Brazil,BRA,2012,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,177.579045408845
+Brazil,BRA,2011,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,183.014804975579
+Brazil,BRA,2010,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,156.189872518227
+Brazil,BRA,2009,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,118.256743327655
+Brazil,BRA,2008,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,141.838604982206
+Brazil,BRA,2007,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,165.169737380827
+Brazil,BRA,2006,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,124.031867468147
+Brazil,BRA,2005,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,120.100351374409
+Brazil,BRA,2004,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,150.94595108815
+Brazil,BRA,2003,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,152.305241823189
+Brazil,BRA,2002,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,120.840839620187
+Brazil,BRA,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,2835460
+Brazil,BRA,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,2840830
+Brazil,BRA,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,2835790
+Brazil,BRA,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,2795620
+Brazil,BRA,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,2756070
+Brazil,BRA,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,2753730
+Brazil,BRA,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,2734630
+Brazil,BRA,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,2735400
+Brazil,BRA,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,2735000
+Brazil,BRA,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,2716380
+Brazil,BRA,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,2727840
+Brazil,BRA,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,2724325.9375
+Brazil,BRA,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,2721320
+Brazil,BRA,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,2684690
+Brazil,BRA,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,2658680
+Brazil,BRA,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,2634650
+Brazil,BRA,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,2614060
+Brazil,BRA,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,2607590
+Brazil,BRA,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,2601120
+Brazil,BRA,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,2595660
+Brazil,BRA,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,2590190
+Brazil,BRA,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,2584720
+Brazil,BRA,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,2514180
+Brazil,BRA,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,2494630
+Brazil,BRA,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,2467090
+Brazil,BRA,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,2449410
+Brazil,BRA,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,2416080
+Brazil,BRA,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,2394320
+Brazil,BRA,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,2376870
+Brazil,BRA,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,2357910
+Brazil,BRA,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,2340550
+Brazil,BRA,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,2310410
+Brazil,BRA,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,2299240
+Brazil,BRA,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,2288210
+Brazil,BRA,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,2281360
+Brazil,BRA,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,2258240
+Brazil,BRA,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,2242780
+Brazil,BRA,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,2225130
+Brazil,BRA,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,2200390
+Brazil,BRA,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,2185500
+Brazil,BRA,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,2160070
+Brazil,BRA,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,2134160
+Brazil,BRA,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,2100430
+Brazil,BRA,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,2058610
+Brazil,BRA,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,2028370
+Brazil,BRA,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,1996320
+Brazil,BRA,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,1953970
+Brazil,BRA,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,1937780
+Brazil,BRA,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,1852230
+Brazil,BRA,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,1795890
+Brazil,BRA,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,1750940
+Brazil,BRA,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,1703950
+Brazil,BRA,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,1660410
+Brazil,BRA,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,1615110
+Brazil,BRA,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,1559130
+Brazil,BRA,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,1505310
+Brazil,BRA,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,33.9245334488295
+Brazil,BRA,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,33.9887821931674
+Brazil,BRA,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,33.9284816956883
+Brazil,BRA,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,33.4478723735185
+Brazil,BRA,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.9746809696894
+Brazil,BRA,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.9466843101456
+Brazil,BRA,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.7181645677148
+Brazil,BRA,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.7273771437186
+Brazil,BRA,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.7225913899504
+Brazil,BRA,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.4998145520415
+Brazil,BRA,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.6369263974999
+Brazil,BRA,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.5948828028724
+Brazil,BRA,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.5589186110785
+Brazil,BRA,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,32.1206632097572
+Brazil,BRA,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,31.8094695709811
+Brazil,BRA,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,31.5219654133575
+Brazil,BRA,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,31.2756187381403
+Brazil,BRA,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,31.1982091709399
+Brazil,BRA,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,31.1207996037396
+Brazil,BRA,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,31.0554740648039
+Brazil,BRA,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,30.990028882024
+Brazil,BRA,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,30.9245836992441
+Brazil,BRA,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,30.080616022225
+Brazil,BRA,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,29.8467123068051
+Brazil,BRA,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,29.5172131598657
+Brazil,BRA,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,29.305682843312
+Brazil,BRA,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.9069099105782
+Brazil,BRA,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.646564905589
+Brazil,BRA,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.4377863974521
+Brazil,BRA,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.2109416688402
+Brazil,BRA,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,28.0032399553011
+Brazil,BRA,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.6426334088685
+Brazil,BRA,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.508991234892
+Brazil,BRA,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.3770240747343
+Brazil,BRA,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.2950680414542
+Brazil,BRA,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,27.0184514736532
+Brazil,BRA,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,26.833482090513
+Brazil,BRA,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,26.6223107054919
+Brazil,BRA,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,26.3263118349298
+Brazil,BRA,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,26.1481621509092
+Brazil,BRA,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,25.8439078550969
+Brazil,BRA,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,25.5339106547629
+Brazil,BRA,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,25.1303519682609
+Brazil,BRA,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,24.6300014117974
+Brazil,BRA,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,24.2681984269227
+Brazil,BRA,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.8847399062471
+Brazil,BRA,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.3780482260407
+Brazil,BRA,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,23.1843448422735
+Brazil,BRA,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,22.1607917551034
+Brazil,BRA,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,21.4867183368549
+Brazil,BRA,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,20.9489192571553
+Brazil,BRA,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,20.386712833238
+Brazil,BRA,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,19.8657835355713
+Brazil,BRA,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,19.3237969213246
+Brazil,BRA,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,18.6540306814674
+Brazil,BRA,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,18.0101075119584
+Brazil,BRA,2016,Arable land (hectares),AG.LND.ARBL.HA,80976000
+Brazil,BRA,2015,Arable land (hectares),AG.LND.ARBL.HA,81513000
+Brazil,BRA,2014,Arable land (hectares),AG.LND.ARBL.HA,81007000
+Brazil,BRA,2013,Arable land (hectares),AG.LND.ARBL.HA,76762000
+Brazil,BRA,2012,Arable land (hectares),AG.LND.ARBL.HA,72607000
+Brazil,BRA,2011,Arable land (hectares),AG.LND.ARBL.HA,72273000
+Brazil,BRA,2010,Arable land (hectares),AG.LND.ARBL.HA,70363000
+Brazil,BRA,2009,Arable land (hectares),AG.LND.ARBL.HA,70440000
+Brazil,BRA,2008,Arable land (hectares),AG.LND.ARBL.HA,70250000
+Brazil,BRA,2007,Arable land (hectares),AG.LND.ARBL.HA,68388000
+Brazil,BRA,2006,Arable land (hectares),AG.LND.ARBL.HA,69538000
+Brazil,BRA,2005,Arable land (hectares),AG.LND.ARBL.HA,69157000
+Brazil,BRA,2004,Arable land (hectares),AG.LND.ARBL.HA,68327000
+Brazil,BRA,2003,Arable land (hectares),AG.LND.ARBL.HA,64634000
+Brazil,BRA,2002,Arable land (hectares),AG.LND.ARBL.HA,61504000
+Brazil,BRA,2001,Arable land (hectares),AG.LND.ARBL.HA,59071000
+Brazil,BRA,2000,Arable land (hectares),AG.LND.ARBL.HA,57776398.4375
+Brazil,BRA,1999,Arable land (hectares),AG.LND.ARBL.HA,57746800.78125
+Brazil,BRA,1998,Arable land (hectares),AG.LND.ARBL.HA,57717199.21875
+Brazil,BRA,1997,Arable land (hectares),AG.LND.ARBL.HA,57788000
+Brazil,BRA,1996,Arable land (hectares),AG.LND.ARBL.HA,57858000
+Brazil,BRA,1995,Arable land (hectares),AG.LND.ARBL.HA,58059000
+Brazil,BRA,1994,Arable land (hectares),AG.LND.ARBL.HA,52745000
+Brazil,BRA,1993,Arable land (hectares),AG.LND.ARBL.HA,52264000
+Brazil,BRA,1992,Arable land (hectares),AG.LND.ARBL.HA,51803000
+Brazil,BRA,1991,Arable land (hectares),AG.LND.ARBL.HA,51998000
+Brazil,BRA,1990,Arable land (hectares),AG.LND.ARBL.HA,50681000
+Brazil,BRA,1989,Arable land (hectares),AG.LND.ARBL.HA,49900000
+Brazil,BRA,1988,Arable land (hectares),AG.LND.ARBL.HA,49800000
+Brazil,BRA,1987,Arable land (hectares),AG.LND.ARBL.HA,49500000
+Brazil,BRA,1986,Arable land (hectares),AG.LND.ARBL.HA,49000000
+Brazil,BRA,1985,Arable land (hectares),AG.LND.ARBL.HA,47300000
+Brazil,BRA,1984,Arable land (hectares),AG.LND.ARBL.HA,47100000
+Brazil,BRA,1983,Arable land (hectares),AG.LND.ARBL.HA,47000000
+Brazil,BRA,1982,Arable land (hectares),AG.LND.ARBL.HA,47000000
+Brazil,BRA,1981,Arable land (hectares),AG.LND.ARBL.HA,45600000
+Brazil,BRA,1980,Arable land (hectares),AG.LND.ARBL.HA,45000000
+Brazil,BRA,1979,Arable land (hectares),AG.LND.ARBL.HA,44900000
+Brazil,BRA,1978,Arable land (hectares),AG.LND.ARBL.HA,44000000
+Brazil,BRA,1977,Arable land (hectares),AG.LND.ARBL.HA,44000000
+Brazil,BRA,1976,Arable land (hectares),AG.LND.ARBL.HA,43000000
+Brazil,BRA,1975,Arable land (hectares),AG.LND.ARBL.HA,42000000
+Brazil,BRA,1974,Arable land (hectares),AG.LND.ARBL.HA,41000000
+Brazil,BRA,1973,Arable land (hectares),AG.LND.ARBL.HA,39000000
+Brazil,BRA,1972,Arable land (hectares),AG.LND.ARBL.HA,38000000
+Brazil,BRA,1971,Arable land (hectares),AG.LND.ARBL.HA,37000000
+Brazil,BRA,1970,Arable land (hectares),AG.LND.ARBL.HA,35000000
+Brazil,BRA,1969,Arable land (hectares),AG.LND.ARBL.HA,33000000
+Brazil,BRA,1968,Arable land (hectares),AG.LND.ARBL.HA,32000000
+Brazil,BRA,1967,Arable land (hectares),AG.LND.ARBL.HA,30000000
+Brazil,BRA,1966,Arable land (hectares),AG.LND.ARBL.HA,29000000
+Brazil,BRA,1965,Arable land (hectares),AG.LND.ARBL.HA,28000000
+Brazil,BRA,1964,Arable land (hectares),AG.LND.ARBL.HA,27000000
+Brazil,BRA,1963,Arable land (hectares),AG.LND.ARBL.HA,26000000
+Brazil,BRA,1962,Arable land (hectares),AG.LND.ARBL.HA,24000000
+Brazil,BRA,1961,Arable land (hectares),AG.LND.ARBL.HA,22118000
+Brazil,BRA,2016,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.392776478897592
+Brazil,BRA,2015,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.398651610433321
+Brazil,BRA,2014,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.39951424252468
+Brazil,BRA,2013,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.381832293906228
+Brazil,BRA,2012,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.364333309033407
+Brazil,BRA,2011,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.365912313065529
+Brazil,BRA,2010,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.359520173441161
+Brazil,BRA,2009,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.363305320863275
+Brazil,BRA,2008,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.36582756637203
+Brazil,BRA,2007,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.359689899844182
+Brazil,BRA,2006,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.369554004893389
+Brazil,BRA,2005,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.371557924049352
+Brazil,BRA,2004,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.371329312036569
+Brazil,BRA,2003,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.355504471978284
+Brazil,BRA,2002,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.342569063001427
+Brazil,BRA,2001,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.333365211394606
+Brazil,BRA,2000,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.330546862243646
+Brazil,BRA,1999,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.335116323180004
+Brazil,BRA,1998,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.339942363772766
+Brazil,BRA,1997,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.345603323839429
+Brazil,BRA,1996,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.351475319140416
+Brazil,BRA,1995,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.358344878828956
+Brazil,BRA,1994,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.330829213246295
+Brazil,BRA,1993,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.333212032014622
+Brazil,BRA,1992,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.335817504258088
+Brazil,BRA,1991,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.342886132545451
+Brazil,BRA,1990,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.340133582211171
+Brazil,BRA,1989,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.341013998221424
+Brazil,BRA,1988,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.346730249846368
+Brazil,BRA,1987,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.351333928334494
+Brazil,BRA,1986,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.354792455392017
+Brazil,BRA,1985,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.349660481889805
+Brazil,BRA,1984,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.355784337222275
+Brazil,BRA,1983,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.363077858593673
+Brazil,BRA,1982,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.37154645397092
+Brazil,BRA,1981,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.369020630656743
+Brazil,BRA,1980,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.37284369268072
+Brazil,BRA,1979,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.380900960736568
+Brazil,BRA,1978,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.382206039927345
+Brazil,BRA,1977,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.391370661175902
+Brazil,BRA,1976,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.391653453220338
+Brazil,BRA,1975,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.391731828225034
+Brazil,BRA,1974,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.391571853272716
+Brazil,BRA,1973,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.381382670012547
+Brazil,BRA,1972,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.380535097037401
+Brazil,BRA,1971,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.37955366950436
+Brazil,BRA,1970,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.367982320867652
+Brazil,BRA,1969,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.355808137642631
+Brazil,BRA,1968,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.354032903309111
+Brazil,BRA,1967,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.340770405098998
+Brazil,BRA,1966,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.338403532326085
+Brazil,BRA,1965,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.335838005179821
+Brazil,BRA,1964,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.333067820712947
+Brazil,BRA,1963,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.330063768193067
+Brazil,BRA,1962,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.313666742260352
+Brazil,BRA,1961,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.297639621450523
+Brazil,BRA,2016,Arable land (% of land area),AG.LND.ARBL.ZS,9.68827992830941
+Brazil,BRA,2015,Arable land (% of land area),AG.LND.ARBL.ZS,9.75252867264726
+Brazil,BRA,2014,Arable land (% of land area),AG.LND.ARBL.ZS,9.69198888747975
+Brazil,BRA,2013,Arable land (% of land area),AG.LND.ARBL.ZS,9.18410076883134
+Brazil,BRA,2012,Arable land (% of land area),AG.LND.ARBL.ZS,8.68698059616135
+Brazil,BRA,2011,Arable land (% of land area),AG.LND.ARBL.ZS,8.64701955219702
+Brazil,BRA,2010,Arable land (% of land area),AG.LND.ARBL.ZS,8.41849980976629
+Brazil,BRA,2009,Arable land (% of land area),AG.LND.ARBL.ZS,8.42771238577004
+Brazil,BRA,2008,Arable land (% of land area),AG.LND.ARBL.ZS,8.40498005537117
+Brazil,BRA,2007,Arable land (% of land area),AG.LND.ARBL.ZS,8.18220321746226
+Brazil,BRA,2006,Arable land (% of land area),AG.LND.ARBL.ZS,8.31979363829752
+Brazil,BRA,2005,Arable land (% of land area),AG.LND.ARBL.ZS,8.27420933365558
+Brazil,BRA,2004,Arable land (% of land area),AG.LND.ARBL.ZS,8.17490494296578
+Brazil,BRA,2003,Arable land (% of land area),AG.LND.ARBL.ZS,7.7330602263183
+Brazil,BRA,2002,Arable land (% of land area),AG.LND.ARBL.ZS,7.35857499395799
+Brazil,BRA,2001,Arable land (% of land area),AG.LND.ARBL.ZS,7.06748152100826
+Brazil,BRA,2000,Arable land (% of land area),AG.LND.ARBL.ZS,6.91259041335752
+Brazil,BRA,1999,Arable land (% of land area),AG.LND.ARBL.ZS,6.90904923598432
+Brazil,BRA,1998,Arable land (% of land area),AG.LND.ARBL.ZS,6.90550759125236
+Brazil,BRA,1997,Arable land (% of land area),AG.LND.ARBL.ZS,6.9139784688938
+Brazil,BRA,1996,Arable land (% of land area),AG.LND.ARBL.ZS,6.92235353798812
+Brazil,BRA,1995,Arable land (% of land area),AG.LND.ARBL.ZS,6.94640195067324
+Brazil,BRA,1994,Arable land (% of land area),AG.LND.ARBL.ZS,6.31061456257014
+Brazil,BRA,1993,Arable land (% of land area),AG.LND.ARBL.ZS,6.25306587350774
+Brazil,BRA,1992,Arable land (% of land area),AG.LND.ARBL.ZS,6.19791006132944
+Brazil,BRA,1991,Arable land (% of land area),AG.LND.ARBL.ZS,6.22124061094933
+Brazil,BRA,1990,Arable land (% of land area),AG.LND.ARBL.ZS,6.0636696681319
+Brazil,BRA,1989,Arable land (% of land area),AG.LND.ARBL.ZS,5.97022782580813
+Brazil,BRA,1988,Arable land (% of land area),AG.LND.ARBL.ZS,5.95826344138768
+Brazil,BRA,1987,Arable land (% of land area),AG.LND.ARBL.ZS,5.92237028812631
+Brazil,BRA,1986,Arable land (% of land area),AG.LND.ARBL.ZS,5.86254836602402
+Brazil,BRA,1985,Arable land (% of land area),AG.LND.ARBL.ZS,5.65915383087625
+Brazil,BRA,1984,Arable land (% of land area),AG.LND.ARBL.ZS,5.63522506203533
+Brazil,BRA,1983,Arable land (% of land area),AG.LND.ARBL.ZS,5.62326067761488
+Brazil,BRA,1982,Arable land (% of land area),AG.LND.ARBL.ZS,5.62326067761488
+Brazil,BRA,1981,Arable land (% of land area),AG.LND.ARBL.ZS,5.45575929572848
+Brazil,BRA,1980,Arable land (% of land area),AG.LND.ARBL.ZS,5.38397298920573
+Brazil,BRA,1979,Arable land (% of land area),AG.LND.ARBL.ZS,5.37200860478528
+Brazil,BRA,1978,Arable land (% of land area),AG.LND.ARBL.ZS,5.26432914500116
+Brazil,BRA,1977,Arable land (% of land area),AG.LND.ARBL.ZS,5.26432914500116
+Brazil,BRA,1976,Arable land (% of land area),AG.LND.ARBL.ZS,5.14468530079659
+Brazil,BRA,1975,Arable land (% of land area),AG.LND.ARBL.ZS,5.02504145659202
+Brazil,BRA,1974,Arable land (% of land area),AG.LND.ARBL.ZS,4.90539761238745
+Brazil,BRA,1973,Arable land (% of land area),AG.LND.ARBL.ZS,4.6661099239783
+Brazil,BRA,1972,Arable land (% of land area),AG.LND.ARBL.ZS,4.54646607977373
+Brazil,BRA,1971,Arable land (% of land area),AG.LND.ARBL.ZS,4.42682223556916
+Brazil,BRA,1970,Arable land (% of land area),AG.LND.ARBL.ZS,4.18753454716001
+Brazil,BRA,1969,Arable land (% of land area),AG.LND.ARBL.ZS,3.94824685875087
+Brazil,BRA,1968,Arable land (% of land area),AG.LND.ARBL.ZS,3.8286030145463
+Brazil,BRA,1967,Arable land (% of land area),AG.LND.ARBL.ZS,3.58931532613715
+Brazil,BRA,1966,Arable land (% of land area),AG.LND.ARBL.ZS,3.46967148193258
+Brazil,BRA,1965,Arable land (% of land area),AG.LND.ARBL.ZS,3.35002763772801
+Brazil,BRA,1964,Arable land (% of land area),AG.LND.ARBL.ZS,3.23038379352344
+Brazil,BRA,1963,Arable land (% of land area),AG.LND.ARBL.ZS,3.11073994931887
+Brazil,BRA,1962,Arable land (% of land area),AG.LND.ARBL.ZS,2.87145226090972
+Brazil,BRA,1961,Arable land (% of land area),AG.LND.ARBL.ZS,2.64628254611672
+Brazil,BRA,2017,Land under cereal production (hectares),AG.LND.CREL.HA,22613700
+Brazil,BRA,2016,Land under cereal production (hectares),AG.LND.CREL.HA,20122672
+Brazil,BRA,2015,Land under cereal production (hectares),AG.LND.CREL.HA,21204706
+Brazil,BRA,2014,Land under cereal production (hectares),AG.LND.CREL.HA,21851934
+Brazil,BRA,2013,Land under cereal production (hectares),AG.LND.CREL.HA,20906133
+Brazil,BRA,2012,Land under cereal production (hectares),AG.LND.CREL.HA,19611226
+Brazil,BRA,2011,Land under cereal production (hectares),AG.LND.CREL.HA,19216441
+Brazil,BRA,2010,Land under cereal production (hectares),AG.LND.CREL.HA,18601205
+Brazil,BRA,2009,Land under cereal production (hectares),AG.LND.CREL.HA,20077516
+Brazil,BRA,2008,Land under cereal production (hectares),AG.LND.CREL.HA,20814408
+Brazil,BRA,2007,Land under cereal production (hectares),AG.LND.CREL.HA,19543770
+Brazil,BRA,2006,Land under cereal production (hectares),AG.LND.CREL.HA,18423582
+Brazil,BRA,2005,Land under cereal production (hectares),AG.LND.CREL.HA,19313005
+Brazil,BRA,2004,Land under cereal production (hectares),AG.LND.CREL.HA,20420482
+Brazil,BRA,2003,Land under cereal production (hectares),AG.LND.CREL.HA,19925261
+Brazil,BRA,2002,Land under cereal production (hectares),AG.LND.CREL.HA,17883426
+Brazil,BRA,2001,Land under cereal production (hectares),AG.LND.CREL.HA,18148670
+Brazil,BRA,2000,Land under cereal production (hectares),AG.LND.CREL.HA,17601718
+Brazil,BRA,1999,Land under cereal production (hectares),AG.LND.CREL.HA,17435114
+Brazil,BRA,1998,Land under cereal production (hectares),AG.LND.CREL.HA,15788868
+Brazil,BRA,1997,Land under cereal production (hectares),AG.LND.CREL.HA,17794686
+Brazil,BRA,1996,Land under cereal production (hectares),AG.LND.CREL.HA,17519708
+Brazil,BRA,1995,Land under cereal production (hectares),AG.LND.CREL.HA,19752837
+Brazil,BRA,1994,Land under cereal production (hectares),AG.LND.CREL.HA,20063935
+Brazil,BRA,1993,Land under cereal production (hectares),AG.LND.CREL.HA,18293707
+Brazil,BRA,1992,Land under cereal production (hectares),AG.LND.CREL.HA,20564117
+Brazil,BRA,1991,Land under cereal production (hectares),AG.LND.CREL.HA,19821126
+Brazil,BRA,1990,Land under cereal production (hectares),AG.LND.CREL.HA,18512400
+Brazil,BRA,1989,Land under cereal production (hectares),AG.LND.CREL.HA,21970521
+Brazil,BRA,1988,Land under cereal production (hectares),AG.LND.CREL.HA,23082577
+Brazil,BRA,1987,Land under cereal production (hectares),AG.LND.CREL.HA,23456712
+Brazil,BRA,1986,Land under cereal production (hectares),AG.LND.CREL.HA,22404844
+Brazil,BRA,1985,Land under cereal production (hectares),AG.LND.CREL.HA,19702168
+Brazil,BRA,1984,Land under cereal production (hectares),AG.LND.CREL.HA,19502145
+Brazil,BRA,1983,Land under cereal production (hectares),AG.LND.CREL.HA,18083861
+Brazil,BRA,1982,Land under cereal production (hectares),AG.LND.CREL.HA,21903982
+Brazil,BRA,1981,Land under cereal production (hectares),AG.LND.CREL.HA,19893608
+Brazil,BRA,1980,Land under cereal production (hectares),AG.LND.CREL.HA,21080553
+Brazil,BRA,1979,Land under cereal production (hectares),AG.LND.CREL.HA,20861400
+Brazil,BRA,1978,Land under cereal production (hectares),AG.LND.CREL.HA,19860058
+Brazil,BRA,1977,Land under cereal production (hectares),AG.LND.CREL.HA,21283876
+Brazil,BRA,1976,Land under cereal production (hectares),AG.LND.CREL.HA,21558886
+Brazil,BRA,1975,Land under cereal production (hectares),AG.LND.CREL.HA,19309530
+Brazil,BRA,1974,Land under cereal production (hectares),AG.LND.CREL.HA,18023969
+Brazil,BRA,1973,Land under cereal production (hectares),AG.LND.CREL.HA,16803961
+Brazil,BRA,1972,Land under cereal production (hectares),AG.LND.CREL.HA,17468377
+Brazil,BRA,1971,Land under cereal production (hectares),AG.LND.CREL.HA,17674109
+Brazil,BRA,1970,Land under cereal production (hectares),AG.LND.CREL.HA,16821700
+Brazil,BRA,1969,Land under cereal production (hectares),AG.LND.CREL.HA,15774034
+Brazil,BRA,1968,Land under cereal production (hectares),AG.LND.CREL.HA,15119971
+Brazil,BRA,1967,Land under cereal production (hectares),AG.LND.CREL.HA,14493244
+Brazil,BRA,1966,Land under cereal production (hectares),AG.LND.CREL.HA,13523268
+Brazil,BRA,1965,Land under cereal production (hectares),AG.LND.CREL.HA,14247927
+Brazil,BRA,1964,Land under cereal production (hectares),AG.LND.CREL.HA,13107902
+Brazil,BRA,1963,Land under cereal production (hectares),AG.LND.CREL.HA,12565288
+Brazil,BRA,1962,Land under cereal production (hectares),AG.LND.CREL.HA,11522315
+Brazil,BRA,1961,Land under cereal production (hectares),AG.LND.CREL.HA,11168641
+Brazil,BRA,2016,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.786060056424037
+Brazil,BRA,2015,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.786060056424037
+Brazil,BRA,2014,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.786299344112446
+Brazil,BRA,2013,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.813578140591088
+Brazil,BRA,2012,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.837506909432003
+Brazil,BRA,2011,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.84947129385246
+Brazil,BRA,2010,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.84947129385246
+Brazil,BRA,2009,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.84947129385246
+Brazil,BRA,2008,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.867417870483146
+Brazil,BRA,2007,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.867417870483146
+Brazil,BRA,2006,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.866939295106328
+Brazil,BRA,2005,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.870480764578752
+Brazil,BRA,2004,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.873998281914397
+Brazil,BRA,2003,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.877587597240534
+Brazil,BRA,2002,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.881057268722467
+Brazil,BRA,2001,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.884646584048604
+Brazil,BRA,2000,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.888188053521029
+Brazil,BRA,1999,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.891729522993453
+Brazil,BRA,1998,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.895270934046032
+Brazil,BRA,1997,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.898764557664744
+Brazil,BRA,1996,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.902353872990881
+Brazil,BRA,1995,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.890269844726219
+Brazil,BRA,1994,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.891944858545083
+Brazil,BRA,1993,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.925564778766568
+Brazil,BRA,1992,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.861076746740303
+Brazil,BRA,1991,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.836190827145753
+Brazil,BRA,1990,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.804844139964155
+Brazil,BRA,1989,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.79347797476472
+Brazil,BRA,1988,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.752200848514143
+Brazil,BRA,1987,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.704821886209133
+Brazil,BRA,1986,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.724443476658682
+Brazil,BRA,1985,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.710804078419361
+Brazil,BRA,1984,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.756627670749712
+Brazil,BRA,1983,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.79216189247847
+Brazil,BRA,1982,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.853778472243825
+Brazil,BRA,1981,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.900200283795198
+Brazil,BRA,1980,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.940879190824753
+Brazil,BRA,1979,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.898884201508948
+Brazil,BRA,1978,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.866101788196895
+Brazil,BRA,1977,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.831524717221774
+Brazil,BRA,1976,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.802451263080063
+Brazil,BRA,1975,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.767634904416533
+Brazil,BRA,1974,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.746936519369142
+Brazil,BRA,1973,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.749090108564824
+Brazil,BRA,1972,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.758183040724372
+Brazil,BRA,1971,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.757584821503349
+Brazil,BRA,1970,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.748850820876415
+Brazil,BRA,1969,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.751124053916302
+Brazil,BRA,1968,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.744543642485051
+Brazil,BRA,1967,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.740475751782095
+Brazil,BRA,1966,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.741073971003118
+Brazil,BRA,1965,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.729229230426865
+Brazil,BRA,1964,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.746697231680733
+Brazil,BRA,1963,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.743107916354596
+Brazil,BRA,1962,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.743347204043005
+Brazil,BRA,1961,Permanent cropland (% of land area),AG.LND.CROP.ZS,0.751124053916302
+Brazil,BRA,2010,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,47495.16797
+Brazil,BRA,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,47495.16797
+Brazil,BRA,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,47495.16797
+Brazil,BRA,2010,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.567010929
+Brazil,BRA,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.567010929
+Brazil,BRA,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.567010929
+Brazil,BRA,2016,Forest area (sq. km),AG.LND.FRST.K2,4925540
+Brazil,BRA,2015,Forest area (sq. km),AG.LND.FRST.K2,4935380
+Brazil,BRA,2014,Forest area (sq. km),AG.LND.FRST.K2,4945220
+Brazil,BRA,2013,Forest area (sq. km),AG.LND.FRST.K2,4955060
+Brazil,BRA,2012,Forest area (sq. km),AG.LND.FRST.K2,4964900
+Brazil,BRA,2011,Forest area (sq. km),AG.LND.FRST.K2,4974740
+Brazil,BRA,2010,Forest area (sq. km),AG.LND.FRST.K2,4984580
+Brazil,BRA,2009,Forest area (sq. km),AG.LND.FRST.K2,5001131.875
+Brazil,BRA,2008,Forest area (sq. km),AG.LND.FRST.K2,5017684.0625
+Brazil,BRA,2007,Forest area (sq. km),AG.LND.FRST.K2,5034235.9375
+Brazil,BRA,2006,Forest area (sq. km),AG.LND.FRST.K2,5050788.125
+Brazil,BRA,2005,Forest area (sq. km),AG.LND.FRST.K2,5067340
+Brazil,BRA,2004,Forest area (sq. km),AG.LND.FRST.K2,5096420
+Brazil,BRA,2003,Forest area (sq. km),AG.LND.FRST.K2,5125500
+Brazil,BRA,2002,Forest area (sq. km),AG.LND.FRST.K2,5154580
+Brazil,BRA,2001,Forest area (sq. km),AG.LND.FRST.K2,5183660
+Brazil,BRA,2000,Forest area (sq. km),AG.LND.FRST.K2,5212740
+Brazil,BRA,1999,Forest area (sq. km),AG.LND.FRST.K2,5238170.9375
+Brazil,BRA,1998,Forest area (sq. km),AG.LND.FRST.K2,5263601.875
+Brazil,BRA,1997,Forest area (sq. km),AG.LND.FRST.K2,5289033.125
+Brazil,BRA,1996,Forest area (sq. km),AG.LND.FRST.K2,5314463.75
+Brazil,BRA,1995,Forest area (sq. km),AG.LND.FRST.K2,5339895
+Brazil,BRA,1994,Forest area (sq. km),AG.LND.FRST.K2,5365326.25
+Brazil,BRA,1993,Forest area (sq. km),AG.LND.FRST.K2,5390756.875
+Brazil,BRA,1992,Forest area (sq. km),AG.LND.FRST.K2,5416188.125
+Brazil,BRA,1991,Forest area (sq. km),AG.LND.FRST.K2,5441618.75
+Brazil,BRA,1990,Forest area (sq. km),AG.LND.FRST.K2,5467050
+Brazil,BRA,2016,Forest area (% of land area),AG.LND.FRST.ZS,58.9310540383387
+Brazil,BRA,2015,Forest area (% of land area),AG.LND.FRST.ZS,59.048783581036
+Brazil,BRA,2014,Forest area (% of land area),AG.LND.FRST.ZS,59.1665131237333
+Brazil,BRA,2013,Forest area (% of land area),AG.LND.FRST.ZS,59.2842426664306
+Brazil,BRA,2012,Forest area (% of land area),AG.LND.FRST.ZS,59.4019722091279
+Brazil,BRA,2011,Forest area (% of land area),AG.LND.FRST.ZS,59.5197017518252
+Brazil,BRA,2010,Forest area (% of land area),AG.LND.FRST.ZS,59.6374312945225
+Brazil,BRA,2009,Forest area (% of land area),AG.LND.FRST.ZS,59.8354642899018
+Brazil,BRA,2008,Forest area (% of land area),AG.LND.FRST.ZS,60.0335010241513
+Brazil,BRA,2007,Forest area (% of land area),AG.LND.FRST.ZS,60.2315340195307
+Brazil,BRA,2006,Forest area (% of land area),AG.LND.FRST.ZS,60.4295707537801
+Brazil,BRA,2005,Forest area (% of land area),AG.LND.FRST.ZS,60.6276037491595
+Brazil,BRA,2004,Forest area (% of land area),AG.LND.FRST.ZS,60.9755280481064
+Brazil,BRA,2003,Forest area (% of land area),AG.LND.FRST.ZS,61.3234523470533
+Brazil,BRA,2002,Forest area (% of land area),AG.LND.FRST.ZS,61.6713766460002
+Brazil,BRA,2001,Forest area (% of land area),AG.LND.FRST.ZS,62.0193009449471
+Brazil,BRA,2000,Forest area (% of land area),AG.LND.FRST.ZS,62.367225243894
+Brazil,BRA,1999,Forest area (% of land area),AG.LND.FRST.ZS,62.6714907563166
+Brazil,BRA,1998,Forest area (% of land area),AG.LND.FRST.ZS,62.9757562687392
+Brazil,BRA,1997,Forest area (% of land area),AG.LND.FRST.ZS,63.280025520032
+Brazil,BRA,1996,Forest area (% of land area),AG.LND.FRST.ZS,63.5842872935845
+Brazil,BRA,1995,Forest area (% of land area),AG.LND.FRST.ZS,63.8885565448772
+Brazil,BRA,1994,Forest area (% of land area),AG.LND.FRST.ZS,64.19282579617
+Brazil,BRA,1993,Forest area (% of land area),AG.LND.FRST.ZS,64.4970875697225
+Brazil,BRA,1992,Forest area (% of land area),AG.LND.FRST.ZS,64.8013568210152
+Brazil,BRA,1991,Forest area (% of land area),AG.LND.FRST.ZS,65.1056185945677
+Brazil,BRA,1990,Forest area (% of land area),AG.LND.FRST.ZS,65.4098878458604
+Brazil,BRA,2007,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.63968222413653
+Brazil,BRA,2006,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,1.63279371224119
+Brazil,BRA,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1761
+Brazil,BRA,2018,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2017,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2016,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2015,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2014,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2013,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2012,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2011,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2010,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2009,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2008,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2007,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2006,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2005,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2004,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2003,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2002,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2001,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2000,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1999,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1998,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1997,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1996,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1995,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1994,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1993,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1992,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1991,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1990,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1989,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1988,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1987,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1986,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1985,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1984,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1983,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1982,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1981,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1980,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1979,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1978,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1977,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1976,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1975,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1974,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1973,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1972,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1971,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1970,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1969,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1968,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1967,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1966,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1965,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1964,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1963,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1962,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,1961,Land area (sq. km),AG.LND.TOTL.K2,8358140
+Brazil,BRA,2010,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8241430
+Brazil,BRA,2000,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8241430
+Brazil,BRA,1990,Rural land area (sq. km),AG.LND.TOTL.RU.K2,8241430
+Brazil,BRA,2006,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,113.326957922287
+Brazil,BRA,2005,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,114.178174299059
+Brazil,BRA,2004,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,115.794780979701
+Brazil,BRA,2003,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,122.653711668781
+Brazil,BRA,2002,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,129.150786940687
+Brazil,BRA,2001,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,134.735826378426
+Brazil,BRA,2000,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,138.026256666494
+Brazil,BRA,1999,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,138.368704272781
+Brazil,BRA,1998,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,138.711512484465
+Brazil,BRA,1997,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,138.813075378971
+Brazil,BRA,1996,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,138.916312350928
+Brazil,BRA,1995,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,136.283435815291
+Brazil,BRA,1994,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,147.645084842165
+Brazil,BRA,1993,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,146.613347619777
+Brazil,BRA,1992,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,145.506244812077
+Brazil,BRA,1991,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,142.557790684257
+Brazil,BRA,1990,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,143.79728103234
+Brazil,BRA,1989,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,143.544088176353
+Brazil,BRA,1988,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,141.323293172691
+Brazil,BRA,1987,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,139.65595959596
+Brazil,BRA,1986,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,138.531224489796
+Brazil,BRA,1985,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,140.868710359408
+Brazil,BRA,1984,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,136.093418259023
+Brazil,BRA,1983,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,131.276595744681
+Brazil,BRA,1982,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,126.170212765957
+Brazil,BRA,1981,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,124.780701754386
+Brazil,BRA,1980,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,121.156666666667
+Brazil,BRA,1979,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,108.017817371938
+Brazil,BRA,1978,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,97.2727272727273
+Brazil,BRA,1977,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,84.0909090909091
+Brazil,BRA,1976,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,81.3953488372093
+Brazil,BRA,1975,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,76.9316666666667
+Brazil,BRA,1974,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,57.5609756097561
+Brazil,BRA,1973,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,56.025641025641
+Brazil,BRA,1972,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,52.8947368421053
+Brazil,BRA,1971,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,49.5945945945946
+Brazil,BRA,1970,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,47.3914285714286
+Brazil,BRA,1969,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,47.0909090909091
+Brazil,BRA,1968,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,45.3125
+Brazil,BRA,1967,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,44.8333333333333
+Brazil,BRA,1966,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,42.7586206896552
+Brazil,BRA,1965,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,40.7142857142857
+Brazil,BRA,1964,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,38.1481481481481
+Brazil,BRA,1963,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,35.7692307692308
+Brazil,BRA,1962,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,34.1666666666667
+Brazil,BRA,1961,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,32.5526720318293
+Brazil,BRA,2017,Cereal production (metric tons),AG.PRD.CREL.MT,117784130
+Brazil,BRA,2016,Cereal production (metric tons),AG.PRD.CREL.MT,84128732
+Brazil,BRA,2015,Cereal production (metric tons),AG.PRD.CREL.MT,106028113
+Brazil,BRA,2014,Cereal production (metric tons),AG.PRD.CREL.MT,101402184
+Brazil,BRA,2013,Cereal production (metric tons),AG.PRD.CREL.MT,100901726
+Brazil,BRA,2012,Cereal production (metric tons),AG.PRD.CREL.MT,89908244
+Brazil,BRA,2011,Cereal production (metric tons),AG.PRD.CREL.MT,77586276
+Brazil,BRA,2010,Cereal production (metric tons),AG.PRD.CREL.MT,75160152
+Brazil,BRA,2009,Cereal production (metric tons),AG.PRD.CREL.MT,70914791
+Brazil,BRA,2008,Cereal production (metric tons),AG.PRD.CREL.MT,79745466
+Brazil,BRA,2007,Cereal production (metric tons),AG.PRD.CREL.MT,69441634
+Brazil,BRA,2006,Cereal production (metric tons),AG.PRD.CREL.MT,59148978
+Brazil,BRA,2005,Cereal production (metric tons),AG.PRD.CREL.MT,55670925
+Brazil,BRA,2004,Cereal production (metric tons),AG.PRD.CREL.MT,63953364
+Brazil,BRA,2003,Cereal production (metric tons),AG.PRD.CREL.MT,67454329
+Brazil,BRA,2002,Cereal production (metric tons),AG.PRD.CREL.MT,50875594
+Brazil,BRA,2001,Cereal production (metric tons),AG.PRD.CREL.MT,57125393
+Brazil,BRA,2000,Cereal production (metric tons),AG.PRD.CREL.MT,46527202
+Brazil,BRA,1999,Cereal production (metric tons),AG.PRD.CREL.MT,47631962
+Brazil,BRA,1998,Cereal production (metric tons),AG.PRD.CREL.MT,40742023
+Brazil,BRA,1997,Cereal production (metric tons),AG.PRD.CREL.MT,44874820
+Brazil,BRA,1996,Cereal production (metric tons),AG.PRD.CREL.MT,42436960
+Brazil,BRA,1995,Cereal production (metric tons),AG.PRD.CREL.MT,49641823
+Brazil,BRA,1994,Cereal production (metric tons),AG.PRD.CREL.MT,45845332
+Brazil,BRA,1993,Cereal production (metric tons),AG.PRD.CREL.MT,43073467
+Brazil,BRA,1992,Cereal production (metric tons),AG.PRD.CREL.MT,44057994
+Brazil,BRA,1991,Cereal production (metric tons),AG.PRD.CREL.MT,36682063
+Brazil,BRA,1990,Cereal production (metric tons),AG.PRD.CREL.MT,32490390
+Brazil,BRA,1989,Cereal production (metric tons),AG.PRD.CREL.MT,43934410
+Brazil,BRA,1988,Cereal production (metric tons),AG.PRD.CREL.MT,42905037
+Brazil,BRA,1987,Cereal production (metric tons),AG.PRD.CREL.MT,44148398
+Brazil,BRA,1986,Cereal production (metric tons),AG.PRD.CREL.MT,37298400
+Brazil,BRA,1985,Cereal production (metric tons),AG.PRD.CREL.MT,36011139
+Brazil,BRA,1984,Cereal production (metric tons),AG.PRD.CREL.MT,32711289
+Brazil,BRA,1983,Cereal production (metric tons),AG.PRD.CREL.MT,29197566
+Brazil,BRA,1982,Cereal production (metric tons),AG.PRD.CREL.MT,33838263
+Brazil,BRA,1981,Cereal production (metric tons),AG.PRD.CREL.MT,32050567
+Brazil,BRA,1980,Cereal production (metric tons),AG.PRD.CREL.MT,33217492
+Brazil,BRA,1979,Cereal production (metric tons),AG.PRD.CREL.MT,27147322
+Brazil,BRA,1978,Cereal production (metric tons),AG.PRD.CREL.MT,24033646
+Brazil,BRA,1977,Cereal production (metric tons),AG.PRD.CREL.MT,30913834
+Brazil,BRA,1976,Cereal production (metric tons),AG.PRD.CREL.MT,31143200
+Brazil,BRA,1975,Cereal production (metric tons),AG.PRD.CREL.MT,26238419
+Brazil,BRA,1974,Cereal production (metric tons),AG.PRD.CREL.MT,26240014
+Brazil,BRA,1973,Cereal production (metric tons),AG.PRD.CREL.MT,23721606
+Brazil,BRA,1972,Cereal production (metric tons),AG.PRD.CREL.MT,22703928
+Brazil,BRA,1971,Cereal production (metric tons),AG.PRD.CREL.MT,22814265
+Brazil,BRA,1970,Cereal production (metric tons),AG.PRD.CREL.MT,23698316
+Brazil,BRA,1969,Cereal production (metric tons),AG.PRD.CREL.MT,20549860
+Brazil,BRA,1968,Cereal production (metric tons),AG.PRD.CREL.MT,20418801
+Brazil,BRA,1967,Cereal production (metric tons),AG.PRD.CREL.MT,20322328
+Brazil,BRA,1966,Cereal production (metric tons),AG.PRD.CREL.MT,17867924
+Brazil,BRA,1965,Cereal production (metric tons),AG.PRD.CREL.MT,20350793
+Brazil,BRA,1964,Cereal production (metric tons),AG.PRD.CREL.MT,16469226
+Brazil,BRA,1963,Cereal production (metric tons),AG.PRD.CREL.MT,16616892
+Brazil,BRA,1962,Cereal production (metric tons),AG.PRD.CREL.MT,15918336
+Brazil,BRA,1961,Cereal production (metric tons),AG.PRD.CREL.MT,15036353
+Brazil,BRA,2016,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,142.65
+Brazil,BRA,2015,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,148.49
+Brazil,BRA,2014,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,142.82
+Brazil,BRA,2013,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,140.64
+Brazil,BRA,2012,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,130.91
+Brazil,BRA,2011,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,135.56
+Brazil,BRA,2010,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,126.69
+Brazil,BRA,2009,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,118.93
+Brazil,BRA,2008,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,121.77
+Brazil,BRA,2007,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,112.28
+Brazil,BRA,2006,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,103.06
+Brazil,BRA,2005,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,97.95
+Brazil,BRA,2004,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,98.99
+Brazil,BRA,2003,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,95.49
+Brazil,BRA,2002,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,87.29
+Brazil,BRA,2001,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,82.35
+Brazil,BRA,2000,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,77.55
+Brazil,BRA,1999,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,75.81
+Brazil,BRA,1998,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,71.17
+Brazil,BRA,1997,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,70.41
+Brazil,BRA,1996,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,65.71
+Brazil,BRA,1995,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,70.17
+Brazil,BRA,1994,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,68.28
+Brazil,BRA,1993,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,62.89
+Brazil,BRA,1992,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,64.06
+Brazil,BRA,1991,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,60.09
+Brazil,BRA,1990,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,59.02
+Brazil,BRA,1989,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,63.55
+Brazil,BRA,1988,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,60.94
+Brazil,BRA,1987,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,59.99
+Brazil,BRA,1986,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,53.93
+Brazil,BRA,1985,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,58.65
+Brazil,BRA,1984,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,52.22
+Brazil,BRA,1983,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,47.47
+Brazil,BRA,1982,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,48.78
+Brazil,BRA,1981,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,47.54
+Brazil,BRA,1980,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,45.45
+Brazil,BRA,1979,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,41.11
+Brazil,BRA,1978,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,39.41
+Brazil,BRA,1977,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,41.21
+Brazil,BRA,1976,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,37.55
+Brazil,BRA,1975,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,36.6
+Brazil,BRA,1974,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,36.25
+Brazil,BRA,1973,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,32.75
+Brazil,BRA,1972,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,34.71
+Brazil,BRA,1971,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,33.58
+Brazil,BRA,1970,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,31.12
+Brazil,BRA,1969,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,30.41
+Brazil,BRA,1968,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,29.61
+Brazil,BRA,1967,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,29.56
+Brazil,BRA,1966,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,26.84
+Brazil,BRA,1965,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,29.29
+Brazil,BRA,1964,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,24.47
+Brazil,BRA,1963,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,24.82
+Brazil,BRA,1962,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,24.67
+Brazil,BRA,1961,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,23.31
+Brazil,BRA,2016,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,136.5
+Brazil,BRA,2015,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,140.58
+Brazil,BRA,2014,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,137.01
+Brazil,BRA,2013,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,136.83
+Brazil,BRA,2012,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,127.29
+Brazil,BRA,2011,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,129.15
+Brazil,BRA,2010,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,123.98
+Brazil,BRA,2009,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,116.91
+Brazil,BRA,2008,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,116.63
+Brazil,BRA,2007,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,110.88
+Brazil,BRA,2006,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,103.17
+Brazil,BRA,2005,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,99.4
+Brazil,BRA,2004,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,97.44
+Brazil,BRA,2003,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,94.21
+Brazil,BRA,2002,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,86.45
+Brazil,BRA,2001,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,81.12
+Brazil,BRA,2000,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,76.96
+Brazil,BRA,1999,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,75.19
+Brazil,BRA,1998,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,69.94
+Brazil,BRA,1997,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,69.09
+Brazil,BRA,1996,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,65.72
+Brazil,BRA,1995,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,66.37
+Brazil,BRA,1994,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,62.05
+Brazil,BRA,1993,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,57.45
+Brazil,BRA,1992,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,56.89
+Brazil,BRA,1991,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,53.73
+Brazil,BRA,1990,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,51.4
+Brazil,BRA,1989,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,53.51
+Brazil,BRA,1988,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,51.39
+Brazil,BRA,1987,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,49.04
+Brazil,BRA,1986,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,45.1
+Brazil,BRA,1985,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,46.25
+Brazil,BRA,1984,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,43.15
+Brazil,BRA,1983,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,40.11
+Brazil,BRA,1982,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,40.16
+Brazil,BRA,1981,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,38.19
+Brazil,BRA,1980,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,37.41
+Brazil,BRA,1979,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,33.06
+Brazil,BRA,1978,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,31.58
+Brazil,BRA,1977,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,32.33
+Brazil,BRA,1976,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,30.95
+Brazil,BRA,1975,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,28.07
+Brazil,BRA,1974,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,26.77
+Brazil,BRA,1973,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,25.38
+Brazil,BRA,1972,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,25.4
+Brazil,BRA,1971,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,23.91
+Brazil,BRA,1970,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,23.42
+Brazil,BRA,1969,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,21.97
+Brazil,BRA,1968,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,21.27
+Brazil,BRA,1967,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,20.59
+Brazil,BRA,1966,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,19.13
+Brazil,BRA,1965,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,19.64
+Brazil,BRA,1964,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,17.61
+Brazil,BRA,1963,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,16.76
+Brazil,BRA,1962,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,16.23
+Brazil,BRA,1961,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,15.69
+Brazil,BRA,2016,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,127
+Brazil,BRA,2015,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,127.94
+Brazil,BRA,2014,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,128.25
+Brazil,BRA,2013,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,127.45
+Brazil,BRA,2012,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,121.38
+Brazil,BRA,2011,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,118.8
+Brazil,BRA,2010,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,116.56
+Brazil,BRA,2009,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,111.31
+Brazil,BRA,2008,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,111.44
+Brazil,BRA,2007,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,107.66
+Brazil,BRA,2006,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,102.81
+Brazil,BRA,2005,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,100.89
+Brazil,BRA,2004,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,96.3
+Brazil,BRA,2003,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,89.6
+Brazil,BRA,2002,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,85.71
+Brazil,BRA,2001,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,80.41
+Brazil,BRA,2000,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,77.62
+Brazil,BRA,1999,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,74.18
+Brazil,BRA,1998,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,68.44
+Brazil,BRA,1997,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,67.04
+Brazil,BRA,1996,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,66.49
+Brazil,BRA,1995,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,62.21
+Brazil,BRA,1994,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,56.53
+Brazil,BRA,1993,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,53.47
+Brazil,BRA,1992,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,51.65
+Brazil,BRA,1991,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,49.03
+Brazil,BRA,1990,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,44.88
+Brazil,BRA,1989,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,44.19
+Brazil,BRA,1988,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,42.82
+Brazil,BRA,1987,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,40.41
+Brazil,BRA,1986,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,37.72
+Brazil,BRA,1985,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,36.08
+Brazil,BRA,1984,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,35
+Brazil,BRA,1983,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,34.36
+Brazil,BRA,1982,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,33.3
+Brazil,BRA,1981,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,32.92
+Brazil,BRA,1980,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,31.9
+Brazil,BRA,1979,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,28.68
+Brazil,BRA,1978,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,27.01
+Brazil,BRA,1977,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,25.66
+Brazil,BRA,1976,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,25.41
+Brazil,BRA,1975,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,23.46
+Brazil,BRA,1974,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,21.87
+Brazil,BRA,1973,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,21.91
+Brazil,BRA,1972,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,20.93
+Brazil,BRA,1971,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,19.22
+Brazil,BRA,1970,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,19.32
+Brazil,BRA,1969,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,18.87
+Brazil,BRA,1968,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,17.99
+Brazil,BRA,1967,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,16.48
+Brazil,BRA,1966,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,16.11
+Brazil,BRA,1965,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,16.01
+Brazil,BRA,1964,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,15.15
+Brazil,BRA,1963,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,14.12
+Brazil,BRA,1962,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,13.97
+Brazil,BRA,1961,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,13.67
+Brazil,BRA,2018,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2017,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2016,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2015,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2014,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2013,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2012,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2011,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2010,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2009,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2008,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2007,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2006,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2005,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2004,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2003,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2002,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2001,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2000,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1999,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1998,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1997,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1996,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1995,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1994,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1993,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1992,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1991,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1990,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1989,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1988,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1987,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1986,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1985,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1984,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1983,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1982,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1981,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1980,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1979,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1978,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1977,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1976,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1975,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1974,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1973,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1972,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1971,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1970,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1969,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1968,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1967,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1966,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1965,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1964,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1963,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1962,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,1961,Surface area (sq. km),AG.SRF.TOTL.K2,8515770
+Brazil,BRA,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5208.5
+Brazil,BRA,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4180.8
+Brazil,BRA,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5000.2
+Brazil,BRA,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4640.4
+Brazil,BRA,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4826.4
+Brazil,BRA,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4584.5
+Brazil,BRA,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4037.5
+Brazil,BRA,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4040.6
+Brazil,BRA,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3532.1
+Brazil,BRA,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3831.3
+Brazil,BRA,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3553.1
+Brazil,BRA,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3210.5
+Brazil,BRA,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2882.6
+Brazil,BRA,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3131.8
+Brazil,BRA,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3385.4
+Brazil,BRA,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2844.8
+Brazil,BRA,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3147.6
+Brazil,BRA,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2643.3
+Brazil,BRA,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2732
+Brazil,BRA,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2580.4
+Brazil,BRA,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2521.8
+Brazil,BRA,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2422.2
+Brazil,BRA,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2513.1
+Brazil,BRA,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2285
+Brazil,BRA,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2354.6
+Brazil,BRA,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2142.5
+Brazil,BRA,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1850.7
+Brazil,BRA,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1755.1
+Brazil,BRA,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1999.7
+Brazil,BRA,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1858.8
+Brazil,BRA,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1882.1
+Brazil,BRA,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1664.7
+Brazil,BRA,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1827.8
+Brazil,BRA,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1677.3
+Brazil,BRA,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1614.6
+Brazil,BRA,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1544.8
+Brazil,BRA,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1611.1
+Brazil,BRA,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1575.7
+Brazil,BRA,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1301.3
+Brazil,BRA,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1210.1
+Brazil,BRA,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1452.5
+Brazil,BRA,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1444.6
+Brazil,BRA,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1358.8
+Brazil,BRA,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1455.8
+Brazil,BRA,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1411.7
+Brazil,BRA,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1299.7
+Brazil,BRA,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1290.8
+Brazil,BRA,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1408.8
+Brazil,BRA,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1302.8
+Brazil,BRA,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1350.5
+Brazil,BRA,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1402.2
+Brazil,BRA,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1321.3
+Brazil,BRA,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1428.3
+Brazil,BRA,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1256.4
+Brazil,BRA,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1322.4
+Brazil,BRA,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1381.5
+Brazil,BRA,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1346.3
+Brazil,BRA,2018,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Brazil,BRA,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Brazil,BRA,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,98.4671299794553
+Brazil,BRA,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,98.2324092437609
+Brazil,BRA,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.9100770443521
+Brazil,BRA,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.5020334516603
+Brazil,BRA,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.2218134711631
+Brazil,BRA,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,96.1905874295669
+Brazil,BRA,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,93.4678453792054
+Brazil,BRA,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,93.6173981814944
+Brazil,BRA,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,91.852255858914
+Brazil,BRA,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,89.7762109860306
+Brazil,BRA,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,87.1654186720447
+Brazil,BRA,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,84.8305345115422
+Brazil,BRA,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,83.4505451004087
+Brazil,BRA,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,85.3215354534796
+Brazil,BRA,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,84.1179544418392
+Brazil,BRA,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,81.8757629639867
+Brazil,BRA,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.8931120681599
+Brazil,BRA,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,76.5073551123924
+Brazil,BRA,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.6887052208251
+Brazil,BRA,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.8385840283646
+Brazil,BRA,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.0417639637788
+Brazil,BRA,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,67.946114285024
+Brazil,BRA,1994,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,82.5525841110202
+Brazil,BRA,1993,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.3043978721134
+Brazil,BRA,1992,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,62.0133014337249
+Brazil,BRA,1991,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,87.0284203742348
+Brazil,BRA,1990,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,58.9484320241383
+Brazil,BRA,2008,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,315949.829233674
+Brazil,BRA,2007,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,308631.68297679
+Brazil,BRA,2006,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,302080.482937158
+Brazil,BRA,2005,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,302675.36265371
+Brazil,BRA,2004,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,299045.890692919
+Brazil,BRA,2003,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,282633.414705733
+Brazil,BRA,2002,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,271907.790543556
+Brazil,BRA,2001,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,258561.473818476
+Brazil,BRA,2000,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,245526.101670557
+Brazil,BRA,1999,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,247020.042820045
+Brazil,BRA,1998,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,251275.352437731
+Brazil,BRA,1997,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,245648.022188653
+Brazil,BRA,1996,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,244335.586141214
+Brazil,BRA,1995,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,253110.208979081
+Brazil,BRA,1994,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,241140.155425383
+Brazil,BRA,1993,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,238006.976633004
+Brazil,BRA,1992,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,230681.181202529
+Brazil,BRA,1991,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,220055.865807697
+Brazil,BRA,1990,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,209548.16538295
+Brazil,BRA,1989,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,206009.151935758
+Brazil,BRA,1988,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,201865.828571732
+Brazil,BRA,1987,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,201195.927306403
+Brazil,BRA,1986,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,192176.581320067
+Brazil,BRA,1985,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,184605.474666271
+Brazil,BRA,1984,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,183090.131792761
+Brazil,BRA,1983,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,182115.250709466
+Brazil,BRA,1982,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,182728.549770441
+Brazil,BRA,1981,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,179450.108088937
+Brazil,BRA,1980,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,178343.645257861
+Brazil,BRA,1979,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,164248.045563711
+Brazil,BRA,1978,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,161237.196841558
+Brazil,BRA,1977,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,160137.246939449
+Brazil,BRA,1976,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,160831.360086477
+Brazil,BRA,1975,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,144423.221151313
+Brazil,BRA,1974,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,138376.956880129
+Brazil,BRA,1973,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,131433.204276234
+Brazil,BRA,1972,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,130687.117914032
+Brazil,BRA,1971,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,123039.212885306
+Brazil,BRA,1970,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,126426.68994488
+Brazil,BRA,1969,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,0
+Brazil,BRA,2008,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,74.9655552682756
+Brazil,BRA,2007,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,74.7877112067767
+Brazil,BRA,2006,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,74.1640314197788
+Brazil,BRA,2005,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,61.4773980886448
+Brazil,BRA,2004,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,65.0733520239099
+Brazil,BRA,2003,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,67.4365714742508
+Brazil,BRA,2002,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,70.0309555625384
+Brazil,BRA,2001,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,70.3327495385189
+Brazil,BRA,2000,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,71.5763195522675
+Brazil,BRA,1999,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,68.3066423013447
+Brazil,BRA,1998,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.6721553265294
+Brazil,BRA,1997,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,69.2209995600291
+Brazil,BRA,1996,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,69.6960650538444
+Brazil,BRA,1995,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,71.2914208641042
+Brazil,BRA,1994,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,72.0397677620853
+Brazil,BRA,1993,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.740596058215
+Brazil,BRA,1992,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,67.8190817959937
+Brazil,BRA,1991,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,67.8382855475463
+Brazil,BRA,1990,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,65.5497611293083
+Brazil,BRA,1989,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.5283901929101
+Brazil,BRA,1988,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.59359437726
+Brazil,BRA,1987,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,64.1560462578293
+Brazil,BRA,1986,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.4414508681542
+Brazil,BRA,1985,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.6609401103053
+Brazil,BRA,1984,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,68.2454028942534
+Brazil,BRA,1983,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,64.9912569667813
+Brazil,BRA,1982,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.2007194246985
+Brazil,BRA,1981,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.9040743005508
+Brazil,BRA,1980,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,64.7418204073274
+Brazil,BRA,1979,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,64.6365926424428
+Brazil,BRA,1978,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,65.8861302632624
+Brazil,BRA,1977,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,69.4816972584538
+Brazil,BRA,1976,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,64.6792246788694
+Brazil,BRA,1975,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,64.8655832702957
+Brazil,BRA,1974,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,66.9014522934143
+Brazil,BRA,1973,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,68.0493332830604
+Brazil,BRA,1972,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,64.5971390156897
+Brazil,BRA,1971,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,67.892318962023
+Brazil,BRA,1970,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,60.8590140152599
+Brazil,BRA,2008,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,155716.6673
+Brazil,BRA,2007,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,153429.9616
+Brazil,BRA,2006,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,149354.8566
+Brazil,BRA,2005,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,157461.5178
+Brazil,BRA,2004,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,155547.8134
+Brazil,BRA,2003,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,148232.8271
+Brazil,BRA,2002,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,139881.9293
+Brazil,BRA,2001,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,132119.272
+Brazil,BRA,2000,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,122725.1994
+Brazil,BRA,1999,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,124752.1623
+Brazil,BRA,1998,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,129174.892
+Brazil,BRA,1997,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,119443.2077
+Brazil,BRA,1996,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,115466.3169
+Brazil,BRA,1995,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,119962.0981
+Brazil,BRA,1994,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,114224.2492
+Brazil,BRA,1993,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,116477.1122
+Brazil,BRA,1992,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,109704.7375
+Brazil,BRA,1991,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,103212.2649
+Brazil,BRA,1990,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,102539.9865
+Brazil,BRA,1989,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,100184.8576
+Brazil,BRA,1988,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,96225.9189
+Brazil,BRA,1987,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,99505.6414
+Brazil,BRA,1986,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,91378.4706
+Brazil,BRA,1985,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,88911.3263
+Brazil,BRA,1984,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,85673.0353
+Brazil,BRA,1983,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,86659.3933
+Brazil,BRA,1982,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,86904.5413
+Brazil,BRA,1981,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,85266.4951
+Brazil,BRA,1980,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,88102.7688
+Brazil,BRA,1979,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,80564.5918
+Brazil,BRA,1978,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,77141.268
+Brazil,BRA,1977,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,75071.4445
+Brazil,BRA,1976,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,76966.7938
+Brazil,BRA,1975,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,68844.1521
+Brazil,BRA,1974,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,64151.0683
+Brazil,BRA,1973,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,58990.9633
+Brazil,BRA,1972,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,61217.4329
+Brazil,BRA,1971,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,54327.7325
+Brazil,BRA,1970,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,60325.5102
+Brazil,BRA,1969,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,0
+Brazil,BRA,2008,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,81.5450548951043
+Brazil,BRA,2007,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,80.8749624168268
+Brazil,BRA,2006,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,79.7621752453922
+Brazil,BRA,2005,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,66.0668419984704
+Brazil,BRA,2004,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,70.4265224171157
+Brazil,BRA,2003,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,72.9841735732711
+Brazil,BRA,2002,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,74.5154494637151
+Brazil,BRA,2001,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,72.4140087129682
+Brazil,BRA,2000,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,72.6728884466905
+Brazil,BRA,1999,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,68.7266807390026
+Brazil,BRA,1998,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,66.8878426512866
+Brazil,BRA,1997,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,69.1477008833231
+Brazil,BRA,1996,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,68.5575853399055
+Brazil,BRA,1995,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,69.6756734858497
+Brazil,BRA,1994,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,70.4825823729138
+Brazil,BRA,1993,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,65.5028076420862
+Brazil,BRA,1992,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,66.0329169807659
+Brazil,BRA,1991,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,65.7963697087072
+Brazil,BRA,1990,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,65.3849871611645
+Brazil,BRA,1989,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,66.6455552370602
+Brazil,BRA,1988,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,66.0260291368077
+Brazil,BRA,1987,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,63.5434529559888
+Brazil,BRA,1986,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,65.0977805260485
+Brazil,BRA,1985,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,65.9466904875228
+Brazil,BRA,1984,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,66.0066659979173
+Brazil,BRA,1983,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,61.8851650808691
+Brazil,BRA,1982,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,62.6166462662831
+Brazil,BRA,1981,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,62.9794291732973
+Brazil,BRA,1980,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,61.7487832858235
+Brazil,BRA,1979,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,61.0506214630869
+Brazil,BRA,1978,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,61.1691424273188
+Brazil,BRA,1977,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,64.1438035048313
+Brazil,BRA,1976,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,59.7560898122453
+Brazil,BRA,1975,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,60.3130042991888
+Brazil,BRA,1974,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,61.2140313200693
+Brazil,BRA,1973,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,62.0987119701603
+Brazil,BRA,1972,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,59.4040183137401
+Brazil,BRA,1971,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,60.6794511346403
+Brazil,BRA,1970,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,56.1166231706438
+Brazil,BRA,2010,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.512386278
+Brazil,BRA,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.526558876
+Brazil,BRA,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.520009081
+Brazil,BRA,2010,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,60
+Brazil,BRA,2006,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,54.59
+Brazil,BRA,1996,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,60.93
+Brazil,BRA,2019,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,81621689567.7526
+Brazil,BRA,2018,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,83310756445.3446
+Brazil,BRA,2017,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,94933571473.3346
+Brazil,BRA,2016,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,87834044625.2112
+Brazil,BRA,2015,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,77840031260.3324
+Brazil,BRA,2014,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,106236719082.023
+Brazil,BRA,2013,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,111447057186.587
+Brazil,BRA,2012,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,102757155291.588
+Brazil,BRA,2011,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,113596365375.418
+Brazil,BRA,2010,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,90911778080.9459
+Brazil,BRA,2009,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,74628708112.4337
+Brazil,BRA,2008,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,77462742501.9086
+Brazil,BRA,2007,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,61708034307.4316
+Brazil,BRA,2006,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,48404365558.7735
+Brazil,BRA,2005,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,41471224819.2573
+Brazil,BRA,2004,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,37918873880.3419
+Brazil,BRA,2003,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,34432618979.5255
+Brazil,BRA,2002,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,27812342556.8938
+Brazil,BRA,2001,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,26855703596.6329
+Brazil,BRA,2000,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,31135495435.9115
+Brazil,BRA,1999,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,27847482779.5228
+Brazil,BRA,1998,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,41027248858.2507
+Brazil,BRA,1997,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,41378317810.7607
+Brazil,BRA,1996,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,40551829370.2119
+Brazil,BRA,1995,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,38555020050.1253
+Brazil,BRA,1994,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,47642734240.5756
+Brazil,BRA,1993,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,28735214285.7143
+Brazil,BRA,1992,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,27160437500
+Brazil,BRA,1991,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,40927000000
+Brazil,BRA,1990,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,31751335800
+Brazil,BRA,1989,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,35927000000
+Brazil,BRA,1988,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,30206070508.5321
+Brazil,BRA,1987,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,26493865934.7073
+Brazil,BRA,1986,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,26626058417.942
+Brazil,BRA,1985,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,23417382758.3592
+Brazil,BRA,1984,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,21839449808.1673
+Brazil,BRA,1983,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,19977112648.1064
+Brazil,BRA,1982,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,22711381551.5812
+Brazil,BRA,1981,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,25397776715.1497
+Brazil,BRA,1980,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,23384778420.9235
+Brazil,BRA,1979,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,22271744190.9144
+Brazil,BRA,1978,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,20635507897.7901
+Brazil,BRA,1977,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,22780422683.1598
+Brazil,BRA,1976,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,17488792499.4264
+Brazil,BRA,1975,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,13215473676.3705
+Brazil,BRA,1974,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11805727206.0522
+Brazil,BRA,1973,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9074168979.6725
+Brazil,BRA,1972,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,6479656891.15567
+Brazil,BRA,1971,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5419467730.85808
+Brazil,BRA,1970,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4390904238.75018
+Brazil,BRA,1969,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4148971365.68338
+Brazil,BRA,1968,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4006319533.33873
+Brazil,BRA,1967,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3980945162.09314
+Brazil,BRA,1966,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3603489773.5958
+Brazil,BRA,1965,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3633362054.60904
+Brazil,BRA,1964,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3359593665.25553
+Brazil,BRA,1963,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3482148271.75638
+Brazil,BRA,1962,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3095469467.44058
+Brazil,BRA,1961,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2604792800.57867
+Brazil,BRA,1960,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2679301006.89669
+Brazil,BRA,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.43654479334605
+Brazil,BRA,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.41853769167898
+Brazil,BRA,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.60210115900505
+Brazil,BRA,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.89135358685971
+Brazil,BRA,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.31913275104669
+Brazil,BRA,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.32561053879483
+Brazil,BRA,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.50690493825609
+Brazil,BRA,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.1683282240444
+Brazil,BRA,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.34203511988559
+Brazil,BRA,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.11575648758173
+Brazil,BRA,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.47677399196415
+Brazil,BRA,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.56785118317928
+Brazil,BRA,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.41691543601929
+Brazil,BRA,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.37004377798394
+Brazil,BRA,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.65116882283132
+Brazil,BRA,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.66531157603221
+Brazil,BRA,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.1671843856504
+Brazil,BRA,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.47527489339298
+Brazil,BRA,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.80104301642181
+Brazil,BRA,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.75045997570861
+Brazil,BRA,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.64598154008681
+Brazil,BRA,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.7500447835131
+Brazil,BRA,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.68504702949228
+Brazil,BRA,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.76841121077967
+Brazil,BRA,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.01166646465693
+Brazil,BRA,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.53641105265961
+Brazil,BRA,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.56356958504316
+Brazil,BRA,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.77995215917154
+Brazil,BRA,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.78880668811996
+Brazil,BRA,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,6.87330085891951
+Brazil,BRA,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.44158738497377
+Brazil,BRA,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.14234559784443
+Brazil,BRA,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.00894159808701
+Brazil,BRA,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.93001193503835
+Brazil,BRA,1985,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.5037631908331
+Brazil,BRA,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.4483020752953
+Brazil,BRA,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.82620213814722
+Brazil,BRA,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,8.06276475876768
+Brazil,BRA,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.63639087003226
+Brazil,BRA,1980,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.94992801693452
+Brazil,BRA,1979,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,9.89989545081435
+Brazil,BRA,1978,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.2766017150625
+Brazil,BRA,1977,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,12.9308376062278
+Brazil,BRA,1976,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.4546890558027
+Brazil,BRA,1975,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.682677451792
+Brazil,BRA,1974,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.2290046802688
+Brazil,BRA,1973,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.4458587669917
+Brazil,BRA,1972,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.0689555998505
+Brazil,BRA,1971,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.0141806134572
+Brazil,BRA,1970,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.3736196442959
+Brazil,BRA,1969,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.0760635261432
+Brazil,BRA,1968,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,11.8264656488062
+Brazil,BRA,1967,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.0130974006677
+Brazil,BRA,1966,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.3153290920432
+Brazil,BRA,1965,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.6744203718272
+Brazil,BRA,1964,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.8382553714566
+Brazil,BRA,1963,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.1256508327325
+Brazil,BRA,1962,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.5345971129842
+Brazil,BRA,1961,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.0953443122149
+Brazil,BRA,1960,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.6669984863859
+Brazil,BRA,2020,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,4.02299976348877
+Brazil,BRA,2019,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,4.09899997711182
+Brazil,BRA,2018,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,4.1399998664856
+Brazil,BRA,2017,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,4.26200008392334
+Brazil,BRA,2016,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,4.73000001907349
+Brazil,BRA,2015,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,5.02400016784668
+Brazil,BRA,2014,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,5.18300008773804
+Brazil,BRA,2013,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,5.6399998664856
+Brazil,BRA,2012,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,5.87599992752075
+Brazil,BRA,2011,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,6.45100021362305
+Brazil,BRA,2010,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,6.98000001907349
+Brazil,BRA,2009,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,7.58900022506714
+Brazil,BRA,2008,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,8.46100044250488
+Brazil,BRA,2007,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,9.2189998626709
+Brazil,BRA,2006,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,10.1770000457764
+Brazil,BRA,2005,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,11.0880002975464
+Brazil,BRA,2004,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,11.0860004425049
+Brazil,BRA,2003,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,10.9940004348755
+Brazil,BRA,2002,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,11.3470001220703
+Brazil,BRA,2001,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,10.8680000305176
+Brazil,BRA,2000,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,9.69999980926514
+Brazil,BRA,1999,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,8.68599987030029
+Brazil,BRA,1998,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,8.21599960327148
+Brazil,BRA,1997,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,8.35200023651123
+Brazil,BRA,1996,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,8.26099967956543
+Brazil,BRA,1995,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,9.49199962615967
+Brazil,BRA,1994,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,9.31700038909912
+Brazil,BRA,1993,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,9.71500015258789
+Brazil,BRA,1992,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,9.76900005340576
+Brazil,BRA,1991,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,9.39500045776367
+Brazil,BRA,2020,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,12.8780002593994
+Brazil,BRA,2019,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,13.0179996490479
+Brazil,BRA,2018,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,13.0640001296997
+Brazil,BRA,2017,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,13.2840003967285
+Brazil,BRA,2016,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,14.0469999313354
+Brazil,BRA,2015,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,13.9460000991821
+Brazil,BRA,2014,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,14.0240001678467
+Brazil,BRA,2013,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,15.0799999237061
+Brazil,BRA,2012,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,15.4230003356934
+Brazil,BRA,2011,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,15.8149995803833
+Brazil,BRA,2010,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,16.5909996032715
+Brazil,BRA,2009,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,17.5550003051758
+Brazil,BRA,2008,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,17.6270008087158
+Brazil,BRA,2007,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,18.5139999389648
+Brazil,BRA,2006,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,19.4330005645752
+Brazil,BRA,2005,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,20.4790000915527
+Brazil,BRA,2004,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,21.2800006866455
+Brazil,BRA,2003,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,20.5139999389648
+Brazil,BRA,2002,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,20.0020008087158
+Brazil,BRA,2001,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,20.0450000762939
+Brazil,BRA,2000,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,20.7479991912842
+Brazil,BRA,1999,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,21.5790004730225
+Brazil,BRA,1998,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,20.9409999847412
+Brazil,BRA,1997,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,21.8229999542236
+Brazil,BRA,1996,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,22.238000869751
+Brazil,BRA,1995,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,23.2089996337891
+Brazil,BRA,1994,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,23.4179992675781
+Brazil,BRA,1993,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,24.0330009460449
+Brazil,BRA,1992,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,24.2880001068115
+Brazil,BRA,1991,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,23.8379993438721
+Brazil,BRA,2020,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,9.11999988555908
+Brazil,BRA,2019,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,9.2209997177124
+Brazil,BRA,2018,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,9.25899982452393
+Brazil,BRA,2017,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,9.45499992370605
+Brazil,BRA,2016,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,10.1370000839233
+Brazil,BRA,2015,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,10.2030000686646
+Brazil,BRA,2014,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,10.335000038147
+Brazil,BRA,2013,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,11.1660003662109
+Brazil,BRA,2012,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,11.4689998626709
+Brazil,BRA,2011,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,11.9890003204346
+Brazil,BRA,2010,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,12.6490001678467
+Brazil,BRA,2009,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,13.4320001602173
+Brazil,BRA,2008,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,13.8450002670288
+Brazil,BRA,2007,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,14.6829996109009
+Brazil,BRA,2006,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,15.6180000305176
+Brazil,BRA,2005,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.6240005493164
+Brazil,BRA,2004,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,17.1389999389648
+Brazil,BRA,2003,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.6749992370605
+Brazil,BRA,2002,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.5249996185303
+Brazil,BRA,2001,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.4220008850098
+Brazil,BRA,2000,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.4790000915527
+Brazil,BRA,1999,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.6889991760254
+Brazil,BRA,1998,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.1989994049072
+Brazil,BRA,1997,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,16.8540000915527
+Brazil,BRA,1996,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,17.1030006408691
+Brazil,BRA,1995,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,18.136999130249
+Brazil,BRA,1994,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,18.3129997253418
+Brazil,BRA,1993,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,18.9580001831055
+Brazil,BRA,1992,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,19.2770004272461
+Brazil,BRA,1991,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,18.9790000915527
+Brazil,BRA,2019,Rural population,SP.RUR.TOTL,27807886
+Brazil,BRA,2018,Rural population,SP.RUR.TOTL,28133826
+Brazil,BRA,2017,Rural population,SP.RUR.TOTL,28454530
+Brazil,BRA,2016,Rural population,SP.RUR.TOTL,28776240
+Brazil,BRA,2015,Rural population,SP.RUR.TOTL,29096333
+Brazil,BRA,2014,Rural population,SP.RUR.TOTL,29416963
+Brazil,BRA,2013,Rural population,SP.RUR.TOTL,29735220
+Brazil,BRA,2012,Rural population,SP.RUR.TOTL,30046546
+Brazil,BRA,2011,Rural population,SP.RUR.TOTL,30356009
+Brazil,BRA,2010,Rural population,SP.RUR.TOTL,30658541
+Brazil,BRA,2009,Rural population,SP.RUR.TOTL,30936531
+Brazil,BRA,2008,Rural population,SP.RUR.TOTL,31206854
+Brazil,BRA,2007,Rural population,SP.RUR.TOTL,31470391
+Brazil,BRA,2006,Rural population,SP.RUR.TOTL,31719371
+Brazil,BRA,2005,Rural population,SP.RUR.TOTL,31950579
+Brazil,BRA,2004,Rural population,SP.RUR.TOTL,32162493
+Brazil,BRA,2003,Rural population,SP.RUR.TOTL,32356592
+Brazil,BRA,2002,Rural population,SP.RUR.TOTL,32532199
+Brazil,BRA,2001,Rural population,SP.RUR.TOTL,32687356
+Brazil,BRA,2000,Rural population,SP.RUR.TOTL,32874567
+Brazil,BRA,1999,Rural population,SP.RUR.TOTL,33609034
+Brazil,BRA,1998,Rural population,SP.RUR.TOTL,34328880
+Brazil,BRA,1997,Rural population,SP.RUR.TOTL,35033638
+Brazil,BRA,1996,Rural population,SP.RUR.TOTL,35718095
+Brazil,BRA,1995,Rural population,SP.RUR.TOTL,36276255
+Brazil,BRA,1994,Rural population,SP.RUR.TOTL,36824174
+Brazil,BRA,1993,Rural population,SP.RUR.TOTL,37359882
+Brazil,BRA,1992,Rural population,SP.RUR.TOTL,37879933
+Brazil,BRA,1991,Rural population,SP.RUR.TOTL,38382112
+Brazil,BRA,1990,Rural population,SP.RUR.TOTL,38857060
+Brazil,BRA,1989,Rural population,SP.RUR.TOTL,39305246
+Brazil,BRA,1988,Rural population,SP.RUR.TOTL,39724495
+Brazil,BRA,1987,Rural population,SP.RUR.TOTL,40113248
+Brazil,BRA,1986,Rural population,SP.RUR.TOTL,40461768
+Brazil,BRA,1985,Rural population,SP.RUR.TOTL,40768902
+Brazil,BRA,1984,Rural population,SP.RUR.TOTL,41025668
+Brazil,BRA,1983,Rural population,SP.RUR.TOTL,41239805
+Brazil,BRA,1982,Rural population,SP.RUR.TOTL,41413018
+Brazil,BRA,1981,Rural population,SP.RUR.TOTL,41556701
+Brazil,BRA,1980,Rural population,SP.RUR.TOTL,41678055
+Brazil,BRA,1979,Rural population,SP.RUR.TOTL,41786718
+Brazil,BRA,1978,Rural population,SP.RUR.TOTL,41875319
+Brazil,BRA,1977,Rural population,SP.RUR.TOTL,41947038
+Brazil,BRA,1976,Rural population,SP.RUR.TOTL,42000523
+Brazil,BRA,1975,Rural population,SP.RUR.TOTL,42040546
+Brazil,BRA,1974,Rural population,SP.RUR.TOTL,42064668
+Brazil,BRA,1973,Rural population,SP.RUR.TOTL,42074670
+Brazil,BRA,1972,Rural population,SP.RUR.TOTL,42061771
+Brazil,BRA,1971,Rural population,SP.RUR.TOTL,42020987
+Brazil,BRA,1970,Rural population,SP.RUR.TOTL,41936390
+Brazil,BRA,1969,Rural population,SP.RUR.TOTL,41791624
+Brazil,BRA,1968,Rural population,SP.RUR.TOTL,41605172
+Brazil,BRA,1967,Rural population,SP.RUR.TOTL,41382995
+Brazil,BRA,1966,Rural population,SP.RUR.TOTL,41120611
+Brazil,BRA,1965,Rural population,SP.RUR.TOTL,40822181
+Brazil,BRA,1964,Rural population,SP.RUR.TOTL,40484457
+Brazil,BRA,1963,Rural population,SP.RUR.TOTL,40112612
+Brazil,BRA,1962,Rural population,SP.RUR.TOTL,39711701
+Brazil,BRA,1961,Rural population,SP.RUR.TOTL,39294352
+Brazil,BRA,1960,Rural population,SP.RUR.TOTL,38876453
+Brazil,BRA,2019,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.16529750939347
+Brazil,BRA,2018,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.13347499818324
+Brazil,BRA,2017,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.12426720314677
+Brazil,BRA,2016,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.10621058492308
+Brazil,BRA,2015,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.09593282576052
+Brazil,BRA,2014,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.07607210706527
+Brazil,BRA,2013,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.04155107915775
+Brazil,BRA,2012,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.02467754121936
+Brazil,BRA,2011,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.991679785619251
+Brazil,BRA,2010,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.902643274670361
+Brazil,BRA,2009,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.870003155034242
+Brazil,BRA,2008,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.840938535382042
+Brazil,BRA,2007,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.788043127920014
+Brazil,BRA,2006,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.726273591543747
+Brazil,BRA,2005,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.661065723799734
+Brazil,BRA,2004,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.60168114772337
+Brazil,BRA,2003,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.541256589949739
+Brazil,BRA,2002,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.475799912191227
+Brazil,BRA,2001,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.571098284681775
+Brazil,BRA,2000,Rural population growth (annual %),SP.RUR.TOTL.ZG,-2.20955805694455
+Brazil,BRA,1999,Rural population growth (annual %),SP.RUR.TOTL.ZG,-2.11920825327833
+Brazil,BRA,1998,Rural population growth (annual %),SP.RUR.TOTL.ZG,-2.03217032457687
+Brazil,BRA,1997,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.93487374626349
+Brazil,BRA,1996,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.55059718824078
+Brazil,BRA,1995,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.499113668144
+Brazil,BRA,1994,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.44429232144021
+Brazil,BRA,1993,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.38240446755032
+Brazil,BRA,1992,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.31700181533804
+Brazil,BRA,1991,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.22982671591759
+Brazil,BRA,1990,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.14682110863713
+Brazil,BRA,1989,Rural population growth (annual %),SP.RUR.TOTL.ZG,-1.06100039724015
+Brazil,BRA,1988,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.973865387162478
+Brazil,BRA,1987,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.865087444801717
+Brazil,BRA,1986,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.756205663728796
+Brazil,BRA,1985,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.627833469683812
+Brazil,BRA,1984,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.520601112055949
+Brazil,BRA,1983,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.419134512985045
+Brazil,BRA,1982,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.346350802113083
+Brazil,BRA,1981,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.291594741953415
+Brazil,BRA,1980,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.260380655184569
+Brazil,BRA,1979,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.211807018573162
+Brazil,BRA,1978,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.17112145271926
+Brazil,BRA,1977,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.127424803293573
+Brazil,BRA,1976,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.0952462968449148
+Brazil,BRA,1975,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.0573614869142677
+Brazil,BRA,1974,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.0237748484474908
+Brazil,BRA,1973,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.03066210062548
+Brazil,BRA,1972,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.0970091946755966
+Brazil,BRA,1971,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.201523753249979
+Brazil,BRA,1970,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.345800974706638
+Brazil,BRA,1969,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.447145021393712
+Brazil,BRA,1968,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.535443880373708
+Brazil,BRA,1967,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.636056767267328
+Brazil,BRA,1966,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.728389434022148
+Brazil,BRA,1965,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.830746297253416
+Brazil,BRA,1964,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.922732409401384
+Brazil,BRA,1963,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.00449187956258
+Brazil,BRA,1962,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.05650862490369
+Brazil,BRA,1961,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.06920475277879
+Brazil,BRA,2019,Rural population (% of total population),SP.RUR.TOTL.ZS,13.176
+Brazil,BRA,2018,Rural population (% of total population),SP.RUR.TOTL.ZS,13.431
+Brazil,BRA,2017,Rural population (% of total population),SP.RUR.TOTL.ZS,13.691
+Brazil,BRA,2016,Rural population (% of total population),SP.RUR.TOTL.ZS,13.958
+Brazil,BRA,2015,Rural population (% of total population),SP.RUR.TOTL.ZS,14.23
+Brazil,BRA,2014,Rural population (% of total population),SP.RUR.TOTL.ZS,14.508
+Brazil,BRA,2013,Rural population (% of total population),SP.RUR.TOTL.ZS,14.791
+Brazil,BRA,2012,Rural population (% of total population),SP.RUR.TOTL.ZS,15.077
+Brazil,BRA,2011,Rural population (% of total population),SP.RUR.TOTL.ZS,15.369
+Brazil,BRA,2010,Rural population (% of total population),SP.RUR.TOTL.ZS,15.665
+Brazil,BRA,2009,Rural population (% of total population),SP.RUR.TOTL.ZS,15.956
+Brazil,BRA,2008,Rural population (% of total population),SP.RUR.TOTL.ZS,16.251
+Brazil,BRA,2007,Rural population (% of total population),SP.RUR.TOTL.ZS,16.552
+Brazil,BRA,2006,Rural population (% of total population),SP.RUR.TOTL.ZS,16.857
+Brazil,BRA,2005,Rural population (% of total population),SP.RUR.TOTL.ZS,17.166
+Brazil,BRA,2004,Rural population (% of total population),SP.RUR.TOTL.ZS,17.479
+Brazil,BRA,2003,Rural population (% of total population),SP.RUR.TOTL.ZS,17.797
+Brazil,BRA,2002,Rural population (% of total population),SP.RUR.TOTL.ZS,18.12
+Brazil,BRA,2001,Rural population (% of total population),SP.RUR.TOTL.ZS,18.447
+Brazil,BRA,2000,Rural population (% of total population),SP.RUR.TOTL.ZS,18.808
+Brazil,BRA,1999,Rural population (% of total population),SP.RUR.TOTL.ZS,19.504
+Brazil,BRA,1998,Rural population (% of total population),SP.RUR.TOTL.ZS,20.219
+Brazil,BRA,1997,Rural population (% of total population),SP.RUR.TOTL.ZS,20.952
+Brazil,BRA,1996,Rural population (% of total population),SP.RUR.TOTL.ZS,21.698
+Brazil,BRA,1995,Rural population (% of total population),SP.RUR.TOTL.ZS,22.39
+Brazil,BRA,1994,Rural population (% of total population),SP.RUR.TOTL.ZS,23.097
+Brazil,BRA,1993,Rural population (% of total population),SP.RUR.TOTL.ZS,23.819
+Brazil,BRA,1992,Rural population (% of total population),SP.RUR.TOTL.ZS,24.556
+Brazil,BRA,1991,Rural population (% of total population),SP.RUR.TOTL.ZS,25.31
+Brazil,BRA,1990,Rural population (% of total population),SP.RUR.TOTL.ZS,26.078
+Brazil,BRA,1989,Rural population (% of total population),SP.RUR.TOTL.ZS,26.861
+Brazil,BRA,1988,Rural population (% of total population),SP.RUR.TOTL.ZS,27.658
+Brazil,BRA,1987,Rural population (% of total population),SP.RUR.TOTL.ZS,28.471
+Brazil,BRA,1986,Rural population (% of total population),SP.RUR.TOTL.ZS,29.297
+Brazil,BRA,1985,Rural population (% of total population),SP.RUR.TOTL.ZS,30.138
+Brazil,BRA,1984,Rural population (% of total population),SP.RUR.TOTL.ZS,30.99
+Brazil,BRA,1983,Rural population (% of total population),SP.RUR.TOTL.ZS,31.858
+Brazil,BRA,1982,Rural population (% of total population),SP.RUR.TOTL.ZS,32.738
+Brazil,BRA,1981,Rural population (% of total population),SP.RUR.TOTL.ZS,33.63
+Brazil,BRA,1980,Rural population (% of total population),SP.RUR.TOTL.ZS,34.532
+Brazil,BRA,1979,Rural population (% of total population),SP.RUR.TOTL.ZS,35.449
+Brazil,BRA,1978,Rural population (% of total population),SP.RUR.TOTL.ZS,36.375
+Brazil,BRA,1977,Rural population (% of total population),SP.RUR.TOTL.ZS,37.311
+Brazil,BRA,1976,Rural population (% of total population),SP.RUR.TOTL.ZS,38.255
+Brazil,BRA,1975,Rural population (% of total population),SP.RUR.TOTL.ZS,39.211
+Brazil,BRA,1974,Rural population (% of total population),SP.RUR.TOTL.ZS,40.174
+Brazil,BRA,1973,Rural population (% of total population),SP.RUR.TOTL.ZS,41.145
+Brazil,BRA,1972,Rural population (% of total population),SP.RUR.TOTL.ZS,42.121
+Brazil,BRA,1971,Rural population (% of total population),SP.RUR.TOTL.ZS,43.106
+Brazil,BRA,1970,Rural population (% of total population),SP.RUR.TOTL.ZS,44.091
+Brazil,BRA,1969,Rural population (% of total population),SP.RUR.TOTL.ZS,45.06
+Brazil,BRA,1968,Rural population (% of total population),SP.RUR.TOTL.ZS,46.03
+Brazil,BRA,1967,Rural population (% of total population),SP.RUR.TOTL.ZS,47.007
+Brazil,BRA,1966,Rural population (% of total population),SP.RUR.TOTL.ZS,47.984
+Brazil,BRA,1965,Rural population (% of total population),SP.RUR.TOTL.ZS,48.963
+Brazil,BRA,1964,Rural population (% of total population),SP.RUR.TOTL.ZS,49.941
+Brazil,BRA,1963,Rural population (% of total population),SP.RUR.TOTL.ZS,50.922
+Brazil,BRA,1962,Rural population (% of total population),SP.RUR.TOTL.ZS,51.901
+Brazil,BRA,1961,Rural population (% of total population),SP.RUR.TOTL.ZS,52.878
+Brazil,BRA,1960,Rural population (% of total population),SP.RUR.TOTL.ZS,53.861
+Brazil,BRA,2019,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.12893856006445
+Brazil,BRA,2018,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.14883660758487
+Brazil,BRA,2017,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.29268032790998
+Brazil,BRA,2016,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.24447968332531
+Brazil,BRA,2015,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.04223093742104
+Brazil,BRA,2014,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.988473815174251
+Brazil,BRA,2013,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.00419204472015
+Brazil,BRA,2012,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.09292913519411
+Brazil,BRA,2011,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.46648526185912
+Brazil,BRA,2010,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.30703238487906
+Brazil,BRA,2009,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.15552951553512
+Brazil,BRA,2008,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.21957220226723
+Brazil,BRA,2007,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.41949776405439
+Brazil,BRA,2006,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.52336026760633
+Brazil,BRA,2005,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.53839015123328
+Brazil,BRA,2004,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.75481688393989
+Brazil,BRA,2003,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.74991377677123
+Brazil,BRA,2002,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.4957662785085
+Brazil,BRA,2001,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.35187689149701
+Brazil,BRA,2000,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.96871318036662
+Brazil,BRA,1999,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.02268256260727
+Brazil,BRA,1998,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.10344802531828
+Brazil,BRA,1997,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.56766675220835
+Brazil,BRA,1996,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.00288718375647
+Brazil,BRA,1995,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.71551852592771
+Brazil,BRA,1994,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.25136311959746
+Brazil,BRA,1993,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,4.32086139008427
+Brazil,BRA,1992,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.71783509307075
+Brazil,BRA,1991,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.6227016461396
+Brazil,BRA,1990,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.56920030161512
+Brazil,BRA,1989,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.42862947982914
+Brazil,BRA,1988,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.04288218750225
+Brazil,BRA,1987,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.27293894673415
+Brazil,BRA,1986,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.43269079706286
+Brazil,BRA,1985,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.71105136724258
+Brazil,BRA,1984,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.56798369538917
+Brazil,BRA,1983,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.13245343363114
+Brazil,BRA,1982,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.925132415100368
+Brazil,BRA,1981,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.11600912989042
+Brazil,BRA,1980,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.33536028990203
+Brazil,BRA,1979,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.35186868910462
+Brazil,BRA,1978,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.4477752761469
+Brazil,BRA,1977,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.45869997777635
+Brazil,BRA,1976,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.41814579248755
+Brazil,BRA,1975,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.49743307164554
+Brazil,BRA,1974,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.01487682115968
+Brazil,BRA,1973,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.07325979751297
+Brazil,BRA,1972,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.97195859587212
+Brazil,BRA,1971,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.17832030708848
+Brazil,BRA,1970,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.8510437796502
+Brazil,BRA,1969,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.92223497642042
+Brazil,BRA,1968,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.3563975081138
+Brazil,BRA,1967,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.98541557705091
+Brazil,BRA,1966,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.95075941556342
+Brazil,BRA,1965,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.74188678925063
+Brazil,BRA,1964,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.21736097095993
+Brazil,BRA,1963,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.94916518659047
+Brazil,BRA,1962,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,2.9220209566234
+Brazil,BRA,2019,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.46087052262163
+Brazil,BRA,2018,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.0768936910134
+Brazil,BRA,2017,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.48362883001744
+Brazil,BRA,2016,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.81200516398584
+Brazil,BRA,2015,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.69763054054708
+Brazil,BRA,2014,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.01171772110927
+Brazil,BRA,2013,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.53153592299477
+Brazil,BRA,2012,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.79500897442467
+Brazil,BRA,2011,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.53217088013033
+Brazil,BRA,2010,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.8518482072372
+Brazil,BRA,2009,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.77085397073738
+Brazil,BRA,2008,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.53125703364
+Brazil,BRA,2007,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.78190696436379
+Brazil,BRA,2006,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.70428771789551
+Brazil,BRA,2005,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.82751483744604
+Brazil,BRA,2004,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.97714962082596
+Brazil,BRA,2003,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.48682315029716
+Brazil,BRA,2002,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.91862347200095
+Brazil,BRA,2001,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.10370110690774
+Brazil,BRA,2000,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.75725752445881
+Brazil,BRA,1999,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.5069176688832
+Brazil,BRA,1998,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.71687635152344
+Brazil,BRA,1997,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.56436411231747
+Brazil,BRA,1996,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.70348810889041
+Brazil,BRA,1995,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.22532472109377
+Brazil,BRA,1994,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.40603781948829
+Brazil,BRA,1993,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.05987520732361
+Brazil,BRA,1992,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.29430393603252
+Brazil,BRA,1991,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.3937740055405
+Brazil,BRA,1990,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.44427712461671
+Brazil,BRA,1989,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.51488531258731
+Brazil,BRA,1988,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.34281531081789
+Brazil,BRA,1987,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.5248107689953
+Brazil,BRA,1986,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.81219473737456
+Brazil,BRA,1985,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.6102764748546
+Brazil,BRA,1984,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.08360431023633
+Brazil,BRA,1983,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.03160822700824
+Brazil,BRA,1982,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.19927445427054
+Brazil,BRA,1981,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.58477294847258
+Brazil,BRA,1980,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.95608439584318
+Brazil,BRA,1979,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.4422753218592
+Brazil,BRA,1978,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.91890688967911
+Brazil,BRA,1977,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.35351491708881
+Brazil,BRA,1976,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.27323163344916
+Brazil,BRA,1975,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.89162215895199
+Brazil,BRA,1974,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.99114855256352
+Brazil,BRA,1973,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,8.5211430369836
+Brazil,BRA,1972,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,9.32242462742152
+Brazil,BRA,1971,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,10.4940233647961
+Brazil,BRA,1970,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,11.8950975141887
+Brazil,BRA,1969,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,16.4857077847392
+Brazil,BRA,1968,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,14.917196313413
+Brazil,BRA,1967,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,13.6340236836012
+Brazil,BRA,1966,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,15.5877168867304
+Brazil,BRA,1965,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,15.2320973427685
+Brazil,BRA,1964,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,17.442019405573
+Brazil,BRA,1963,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,15.1954920508818
+Brazil,BRA,1962,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,16.4018768364289
