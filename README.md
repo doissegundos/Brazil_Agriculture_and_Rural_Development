@@ -6,8 +6,8 @@ Os dados apresentados aqui incluem medidas de insumos agrícolas, produtos e pro
 
 Alguns exemplos da analise desses dados são: 
 - Analise do uso de maquinas agriculturas entre 1970 e 1980
-  <img src="imagens/1.png" width="300" />
+  <img src="imagens/1.png" />
 - Analise dos dados sobre o trabalho feminino na agricultura ao longo dos anos
-  <img src="imagens/3.png" width="300" />
+  <img src="imagens/3.png"  />
 - Comparação entre a emissão de gás metano e nitrogenio a partir do ano 1990
-  <img src="imagens/4.png" width="300" />
+  <img src="imagens/4.png"/>
